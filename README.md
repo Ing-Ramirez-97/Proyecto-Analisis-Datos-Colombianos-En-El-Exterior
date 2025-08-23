@@ -34,7 +34,7 @@ El objetivo principal fue desarrollar y aplicar habilidades en la **limpieza, ex
 
 ## 👥 Colaboradores
 
-*   **[Carlos David Ramírez Ospina](https://www.linkedin.com/in/tu-linkedin/)** - *Análisis, Limpieza de Datos, Visualización*
+*   **[Carlos David Ramírez Ospina](https://www.linkedin.com/in/carlos-david-ram%C3%ADrez-b452582b3/)** - *Análisis, Limpieza de Datos, Visualización*
 *   **Marcos Beltrán** - *Análisis y Limpieza de Datos*
 
 ## 🙏 Agradecimientos
